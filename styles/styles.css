@@ -421,8 +421,8 @@ body {
 	right: 24px;
 }
 
-@media (max-width: 1280px) {
+/* @media (max-width: 1280px) {
 	.form__wrapper {
 		flex-direction: column;
-	}
-}
+	} */
+/* } */
