@@ -146,7 +146,12 @@ body {
 	margin-bottom: 57px;
 }
 
-.shop__wrapper {}
+.shop__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 24px;
+}
 
 .product {}
 
